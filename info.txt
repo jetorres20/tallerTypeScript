@@ -1,0 +1,20 @@
+ <tr>
+                            <td>Código</td>
+                            <td>201516032</td>
+                        </tr>
+                        <tr>
+                            <td>Cédula</td>
+                            <td>1020839330</td>
+                        </tr>
+                        <tr>
+                            <td>Edad</td>
+                            <td>21 Años</td>
+                        </tr>
+                        <tr>
+                            <td>Dirección</td>
+                            <td>Calle falsa 123</td>
+                        </tr>
+                        <tr>
+                            <td>Teléfono</td>
+                            <td>3112132317</td>
+                        </tr>
